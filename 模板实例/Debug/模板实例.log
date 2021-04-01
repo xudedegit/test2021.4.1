@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\study_source\cpp_code\test2021.4.1\模板实例\test.cpp(23,15): warning C4305: “初始化”: 从“double”到“float”截断
+D:\study_source\cpp_code\test2021.4.1\模板实例\test.cpp(24,15): warning C4305: “初始化”: 从“double”到“float”截断
+D:\study_source\cpp_code\test2021.4.1\模板实例\test.cpp(11): error C4716: “mySwap<int>”: 必须返回一个值
+D:\study_source\cpp_code\test2021.4.1\模板实例\test.cpp(11): error C4716: “mySwap<float>”: 必须返回一个值
